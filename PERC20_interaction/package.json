@@ -1,8 +1,8 @@
 {
   "name": "perc20-example",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.12"
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "hardhat": "^3.16.0"
   },
   "dependencies": {
     "@nomicfoundation/hardhat-web3-v4": "^1.0.0",
